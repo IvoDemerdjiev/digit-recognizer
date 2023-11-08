@@ -1,1 +1,1 @@
-# digit-recognizer
+First time tackling neural networks
